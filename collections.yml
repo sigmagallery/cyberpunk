@@ -1,5 +1,3 @@
 collections:
 - label: Cyberpunk
   data: cyberpunk.yml
-- label: Cyberpunk Mythology
-  data: cyberpunkmythology.yml
