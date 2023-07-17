@@ -1,5 +1,7 @@
 collections:
 - label: Cyberpunk
   data: cyberpunk.yml
+  image: https://ipfs.io/ipfs/bafybeidqhrdv6snw63c6tf4u3emskmsko5usxn4wut44ez5y4zwuw52d5i
 - label: Cyberpunk Mythology
   data: cyberpunkmythology.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeiewnajynm6hdojo7gku2hmv4teivcnkqtuavexqgiyj7nv6iirsi4
